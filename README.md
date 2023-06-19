@@ -28,3 +28,7 @@ This configuration file sets up a Docker container for ddclient using the `lscr.
 
 **Note:** This configuration assumes you have Docker and Docker Compose installed and configured on your system.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
