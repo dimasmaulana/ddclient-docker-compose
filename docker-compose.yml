@@ -1,6 +1,6 @@
 version: "3"
 services:
-  ddclient:
+  app:
     image: lscr.io/linuxserver/ddclient:latest
     environment:
       - PUID=$PUID
